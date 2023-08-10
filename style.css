@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+margin: top;
+font-style: italic;
+font-weight: bold;
+text-align: center;
+}
+
+#buttons{
+    text-align: center;
+}
